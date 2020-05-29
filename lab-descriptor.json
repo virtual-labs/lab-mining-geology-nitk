@@ -1,0 +1,78 @@
+{
+    "broadArea": {
+	"name": "Civil Engineering",
+	"link": "http://vlab.co.in/broad-area-civil-engineering"
+    },
+    "lab": "Mining Geology",
+    "phase":"3",
+   "deployLab":true,
+    "collegeName": "NITS",
+    "baseUrl": "http://mg-nitk.vlabs.ac.in",
+    "introduction": "Welcome to the Mining Geology Lab",
+    "experiments": [
+	    {
+	        "name": "Analysis of Contour Maps",
+		"short-name":"contour-maps",
+		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/mining-geology-nitk/analysis-of-contour-maps-nitk.git",
+ 	        "tag": "v1.0.0",
+         	"deploy": true
+	    }, {
+	        "name": "Analysis of Geological Features like Fault and Fold",
+		"short-name":"fault-and-fold",
+		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/mining-geology-nitk/analysis-of-fault-and-fold-nitk.git",
+ 	        "tag": "v1.0.0",
+         	"deploy": true
+	    }, {
+	        "name": "Identification of Minerals",
+		"short-name":"Identification-of-minerals",
+		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/mining-geology-nitk/identification-of-minerals-nitk.git",
+ 	        "tag": "v1.0.0",
+         	"deploy": true
+	    }, {
+	        "name": "Identification and Study on Physical Properties of Rocks",
+		"short-name":"properties-of-rocks",
+		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/mining-geology-nitk/physical-properties-of-rocks-nitk.git",
+ 	        "tag": "v1.0.0",
+         	"deploy": true
+	    }, {
+	        "name": "Structural Geology: Analysis of Dip and Strike",
+		"short-name":"dip-and-strike",
+		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/mining-geology-nitk/analysis-of-dip-and-strike.git",
+ 	        "tag": "v1.0.0",
+         	"deploy": true
+	    }, {
+	        "name": "Borehole Problems",
+		"short-name":"borehole-problems",
+		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/mining-geology-nitk/borehole-problems-nitk.git",
+ 	        "tag": "v1.0.0",
+         	"deploy": true
+	    }, {
+	        "name": "Thickness of Strata by Graphical Method",
+		"short-name":"graphical-method",
+		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/mining-geology-nitk/thickness-of-strata-by-graphical-method-nitk.git",
+ 	        "tag": "v1.0.0",
+         	"deploy": true
+        }
+    ],
+    "targetAudience": {
+	"UG": [
+	    "B. Tech./ B.E in Civil Engineering"
+	],
+	"PG": [
+	    "MS/Ph. D. Beginners in Civil Engineering and related topics"
+	]
+    },
+    "objective": "The main objective of this lab is to provide the basic knowledge on topographic profiling, identification of geological features, analysis and identification of minerals, rocks which is abundantly available in India such as Coal, Lignite, Metallic and Non-Metallic minerals.",
+    "courseAlignment": {
+	"description": "The syllabi of this lab aligns to the following universities in India.",
+	"universities": [
+	    "P.K. Mukerjee, “A Text Book of Geology”, World Press Pvt., Ltd. Kolkatta.",
+	    "K V G K Gokhale, “Principles of Engineering Geology”, BS Publications, Hyderabad.",
+	    "D. Venkata Reddy, “Engineering Geology”, New Age International Publications, New Delhi.",
+	    "S.K Duggal, H.K Pandey and N Rawal, “Engineering Geology”, McGraw Hill Education (India) Pvt,Ltd. New Delhi.",
+	    "P.C, Vargheese , “Engineering Geology for Civil engineers”, PHI Learning Pvt Limited, New Delhi,2011.",
+	    "M.T Maruthesha Reddy , “Applied Engineering Geology”, New Age International Publishers, 2007.",
+	    "Parbin Singh, “Text Book of Engineering and General Geology”, Published by S.K. Kataria and Sons, New Dehli."	    
+	]
+    }
+}
