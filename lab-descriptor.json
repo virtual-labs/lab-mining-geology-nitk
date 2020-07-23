@@ -56,23 +56,19 @@
     ],
     "targetAudience": {
 	"UG": [
-	    "B. Tech./ B.E in Civil Engineering"
+	    "B. Tech./ B.E in Civil Engineering",
+	    "BSc in Geology"
 	],
 	"PG": [
-	    "MS/Ph. D. Beginners in Civil Engineering and related topics"
+	    "M.Tech/MS/MSc in Earth Engineering and Geology"
 	]
     },
-    "objective": "The main objective of this lab is to provide the basic knowledge on topographic profiling, identification of geological features, analysis and identification of minerals, rocks which is abundantly available in India such as Coal, Lignite, Metallic and Non-Metallic minerals.",
+    "objective": "The main objective of this lab is to provide the basic knowledge on topographic profiling, identification of geological features, analysis, and identification of minerals, rocks which is abundantly available in India such as Coal, Lignite, Metallic, and Non-Metallic minerals.",
     "courseAlignment": {
 	"description": "The syllabi of this lab aligns to the following universities in India.",
 	"universities": [
-	    "P.K. Mukerjee, “A Text Book of Geology”, World Press Pvt., Ltd. Kolkatta.",
-	    "K V G K Gokhale, “Principles of Engineering Geology”, BS Publications, Hyderabad.",
-	    "D. Venkata Reddy, “Engineering Geology”, New Age International Publications, New Delhi.",
-	    "S.K Duggal, H.K Pandey and N Rawal, “Engineering Geology”, McGraw Hill Education (India) Pvt,Ltd. New Delhi.",
-	    "P.C, Vargheese , “Engineering Geology for Civil engineers”, PHI Learning Pvt Limited, New Delhi,2011.",
-	    "M.T Maruthesha Reddy , “Applied Engineering Geology”, New Age International Publishers, 2007.",
-	    "Parbin Singh, “Text Book of Engineering and General Geology”, Published by S.K. Kataria and Sons, New Dehli."	    
+		"Engineering Geology- National Institute of Technology Karnataka Surathkal, APJ Abdul Kalam Technological University, Goa University, Anna University",
+		"Geology Lab- National Institute of Technology Karnataka Surathkal"
 	]
     }
 }
