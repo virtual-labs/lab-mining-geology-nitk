@@ -24,7 +24,7 @@
          	"deploy": true
 	    }, {
 	        "name": "Identification of Minerals",
-		"short-name":"Identification-of-minerals",
+		"short-name":"identification-of-minerals",
 		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/mining-geology-nitk/identification-of-minerals-nitk.git",
  	        "tag": "v1.0.0",
          	"deploy": true
