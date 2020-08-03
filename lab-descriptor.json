@@ -14,43 +14,43 @@
 	        "name": "Analysis of Contour Maps",
 		"short-name":"contour-maps",
 		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/mining-geology-nitk/analysis-of-contour-maps-nitk.git",
- 	        "tag": "v1.0.0",
+ 	        "tag": "v1.0.2",
          	"deploy": true
 	    }, {
 	        "name": "Analysis of Geological Features like Fault and Fold",
 		"short-name":"fault-and-fold",
 		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/mining-geology-nitk/analysis-of-fault-and-fold-nitk.git",
- 	        "tag": "v1.0.0",
+ 	        "tag": "v1.0.2",
          	"deploy": true
 	    }, {
 	        "name": "Identification of Minerals",
 		"short-name":"identification-of-minerals",
 		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/mining-geology-nitk/identification-of-minerals-nitk.git",
- 	        "tag": "v1.0.0",
+ 	        "tag": "v1.0.2",
          	"deploy": true
 	    }, {
 	        "name": "Identification and Study on Physical Properties of Rocks",
 		"short-name":"properties-of-rocks",
 		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/mining-geology-nitk/physical-properties-of-rocks-nitk.git",
- 	        "tag": "v1.0.0",
+ 	        "tag": "v1.0.2",
          	"deploy": true
 	    }, {
 	        "name": "Structural Geology: Analysis of Dip and Strike",
 		"short-name":"dip-and-strike",
 		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/mining-geology-nitk/analysis-of-dip-and-strike.git",
- 	        "tag": "v1.0.0",
+ 	        "tag": "v1.0.2",
          	"deploy": true
 	    }, {
 	        "name": "Borehole Problems",
 		"short-name":"borehole-problems",
 		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/mining-geology-nitk/borehole-problems-nitk.git",
- 	        "tag": "v1.0.0",
+ 	        "tag": "v1.0.2",
          	"deploy": true
 	    }, {
 	        "name": "Thickness of Strata by Graphical Method",
 		"short-name":"graphical-method",
 		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/mining-geology-nitk/thickness-of-strata-by-graphical-method-nitk.git",
- 	        "tag": "v1.0.0",
+ 	        "tag": "v1.0.2",
          	"deploy": true
         }
     ],
@@ -65,7 +65,7 @@
     },
     "objective": "The main objective of this lab is to provide the basic knowledge on topographic profiling, identification of geological features, analysis, and identification of minerals, rocks which is abundantly available in India such as Coal, Lignite, Metallic, and Non-Metallic minerals.",
     "courseAlignment": {
-	"description": "The syllabi of this lab aligns to the following universities in India.",
+	"description": " Following are the courses in which one can come across the theory connected to the experiments in this lab :",
 	"universities": [
 		"Engineering Geology- National Institute of Technology Karnataka Surathkal, APJ Abdul Kalam Technological University, Goa University, Anna University",
 		"Geology Lab- National Institute of Technology Karnataka Surathkal"
