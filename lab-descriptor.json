@@ -1,74 +1,76 @@
 {
-    "broadArea": {
-	"name": "Civil Engineering",
-	"link": "http://vlab.co.in/broad-area-civil-engineering"
+  "broadArea": {
+    "name": "Civil Engineering",
+    "link": "http://vlab.co.in/broad-area-civil-engineering"
+  },
+  "lab": "Mining Geology",
+  "phase": 3,
+  "deployLab": true,
+  "collegeName": "NITS",
+  "baseUrl": "mg-nitk.vlabs.ac.in",
+  "introduction": "Welcome to the Mining Geology Lab",
+  "experiments": [
+    {
+      "name": "Analysis of Contour Maps",
+      "short-name": "contour-maps",
+      "repo": "https://github.com/virtual-labs/exp-contour-maps-nitk",
+      "tag": "v1.0.0",
+      "deploy": true
     },
-    "lab": "Mining Geology",
-    "phase":"3",
-   "deployLab":true,
-    "collegeName": "NITS",
-    "baseUrl": "http://mg-nitk.vlabs.ac.in",
-    "introduction": "Welcome to the Mining Geology Lab",
-    "experiments": [
-	    {
-	        "name": "Analysis of Contour Maps",
-		"short-name":"contour-maps",
-		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/mining-geology-nitk/analysis-of-contour-maps-nitk.git",
- 	        "tag": "v1.0.2",
-         	"deploy": true
-	    }, {
-	        "name": "Analysis of Geological Features like Fault and Fold",
-		"short-name":"fault-and-fold",
-		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/mining-geology-nitk/analysis-of-fault-and-fold-nitk.git",
- 	        "tag": "v1.0.2",
-         	"deploy": true
-	    }, {
-	        "name": "Identification of Minerals",
-		"short-name":"identification-of-minerals",
-		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/mining-geology-nitk/identification-of-minerals-nitk.git",
- 	        "tag": "v1.0.2",
-         	"deploy": true
-	    }, {
-	        "name": "Identification and Study on Physical Properties of Rocks",
-		"short-name":"properties-of-rocks",
-		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/mining-geology-nitk/physical-properties-of-rocks-nitk.git",
- 	        "tag": "v1.0.2",
-         	"deploy": true
-	    }, {
-	        "name": "Structural Geology: Analysis of Dip and Strike",
-		"short-name":"dip-and-strike",
-		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/mining-geology-nitk/analysis-of-dip-and-strike.git",
- 	        "tag": "v1.0.2",
-         	"deploy": true
-	    }, {
-	        "name": "Borehole Problems",
-		"short-name":"borehole-problems",
-		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/mining-geology-nitk/borehole-problems-nitk.git",
- 	        "tag": "v1.0.2",
-         	"deploy": true
-	    }, {
-	        "name": "Thickness of Strata by Graphical Method",
-		"short-name":"graphical-method",
-		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/mining-geology-nitk/thickness-of-strata-by-graphical-method-nitk.git",
- 	        "tag": "v1.0.2",
-         	"deploy": true
-        }
-    ],
-    "targetAudience": {
-	"UG": [
-	    "B. Tech./ B.E in Civil Engineering",
-	    "BSc in Geology"
-	],
-	"PG": [
-	    "M.Tech/MS/MSc in Earth Engineering and Geology"
-	]
+    {
+      "name": "Analysis of Geological Features like Fault and Fold",
+      "short-name": "fault-and-fold",
+      "repo": "https://github.com/virtual-labs/exp-fault-and-fold-nitk",
+      "tag": "v1.0.0",
+      "deploy": true
     },
-    "objective": "The main objective of this lab is to provide the basic knowledge on topographic profiling, identification of geological features, analysis, and identification of minerals, rocks which is abundantly available in India such as Coal, Lignite, Metallic, and Non-Metallic minerals.",
-    "courseAlignment": {
-	"description": " Following are the courses in which one can come across the theory connected to the experiments in this lab :",
-	"universities": [
-		"Engineering Geology- National Institute of Technology Karnataka Surathkal, APJ Abdul Kalam Technological University, Goa University, Anna University",
-		"Geology Lab- National Institute of Technology Karnataka Surathkal"
-	]
+    {
+      "name": "Identification of Minerals",
+      "short-name": "identification-of-minerals",
+      "repo": "https://github.com/virtual-labs/exp-identification-of-minerals-nitk",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Identification and Study on Physical Properties of Rocks",
+      "short-name": "properties-of-rocks",
+      "repo": "https://github.com/virtual-labs/exp-properties-of-rocks-nitk",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Structural Geology: Analysis of Dip and Strike",
+      "short-name": "dip-and-strike",
+      "repo": "https://github.com/virtual-labs/exp-dip-and-strike-nitk",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Borehole Problems",
+      "short-name": "borehole-problems",
+      "repo": "https://github.com/virtual-labs/exp-borehole-problems-nitk",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Thickness of Strata by Graphical Method",
+      "short-name": "graphical-method",
+      "repo": "https://github.com/virtual-labs/exp-graphical-method-nitk",
+      "tag": "v1.0.0",
+      "deploy": true
     }
+  ],
+  "targetAudience": {
+    "UG": ["B. Tech./ B.E in Civil Engineering", "BSc in Geology"],
+    "PG": ["M.Tech/MS/MSc in Earth Engineering and Geology"]
+  },
+  "objective": "The main objective of this lab is to provide the basic knowledge on topographic profiling, identification of geological features, analysis, and identification of minerals, rocks which is abundantly available in India such as Coal, Lignite, Metallic, and Non-Metallic minerals.",
+  "courseAlignment": {
+    "description": " Following are the courses in which one can come across the theory connected to the experiments in this lab :",
+    "universities": [
+      "Engineering Geology- National Institute of Technology Karnataka Surathkal, APJ Abdul Kalam Technological University, Goa University, Anna University",
+      "Geology Lab- National Institute of Technology Karnataka Surathkal"
+    ]
+  },
+  "version": "v1.0.4"
 }
