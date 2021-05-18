@@ -14,49 +14,49 @@
       "name": "Analysis of Contour Maps",
       "short-name": "contour-maps",
       "repo": "https://github.com/virtual-labs/exp-contour-maps-nitk",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Analysis of Geological Features like Fault and Fold",
       "short-name": "fault-and-fold",
       "repo": "https://github.com/virtual-labs/exp-fault-and-fold-nitk",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Identification of Minerals",
       "short-name": "identification-of-minerals",
       "repo": "https://github.com/virtual-labs/exp-identification-of-minerals-nitk",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Identification and Study on Physical Properties of Rocks",
       "short-name": "properties-of-rocks",
       "repo": "https://github.com/virtual-labs/exp-properties-of-rocks-nitk",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Structural Geology: Analysis of Dip and Strike",
       "short-name": "dip-and-strike",
       "repo": "https://github.com/virtual-labs/exp-dip-and-strike-nitk",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Borehole Problems",
       "short-name": "borehole-problems",
       "repo": "https://github.com/virtual-labs/exp-borehole-problems-nitk",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Thickness of Strata by Graphical Method",
       "short-name": "graphical-method",
       "repo": "https://github.com/virtual-labs/exp-graphical-method-nitk",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     }
   ],
