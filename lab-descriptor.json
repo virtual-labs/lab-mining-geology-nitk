@@ -61,7 +61,7 @@
     }
   ],
   "targetAudience": {
-    "UG": [
+    "-": [
       "B. Tech./ B.E in Civil Engineering",
       "BSc in Geology",
       "M.Tech/MS/MSc in Earth Engineering and Geology"
