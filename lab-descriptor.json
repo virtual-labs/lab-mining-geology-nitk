@@ -61,12 +61,8 @@
     }
   ],
   "targetAudience": {
-    "UG": [
-      "B. Tech./ B.E in Civil Engineering",
-      "BSc in Geology"],
-      "PG":[
-      "M.Tech/MS/MSc in Earth Engineering and Geology"
-    ]
+    "UG": ["B. Tech./ B.E in Civil Engineering", "BSc in Geology"],
+    "PG": ["M.Tech/MS/MSc in Earth Engineering and Geology"]
   },
   "objective": "The main objective of this lab is to provide the basic knowledge on topographic profiling, identification of geological features, analysis, and identification of minerals, rocks which is abundantly available in India such as Coal, Lignite, Metallic, and Non-Metallic minerals.",
   "courseAlignment": {
@@ -76,7 +72,7 @@
       "Geology Lab- National Institute of Technology Karnataka Surathkal"
     ]
   },
-  "version": "v1.9.0",
+  "version": "v1.10.0",
   "exp_name": "Thickness of Strata by Graphical Method",
   "exp_short_name": "graphical-method"
 }
