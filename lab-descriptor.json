@@ -4,6 +4,7 @@
     "link": "http://vlab.co.in/broad-area-civil-engineering"
   },
   "lab": "Mining Geology",
+  "lab_display_name": "Mining Geology",
   "phase": 3,
   "deployLab": true,
   "collegeName": "NITS",
@@ -72,7 +73,7 @@
       "Geology Lab- National Institute of Technology Karnataka Surathkal"
     ]
   },
-  "version": "v1.12.0",
+  "version": "v1.13.0",
   "exp_name": "Thickness of Strata by Graphical Method",
   "exp_short_name": "graphical-method"
 }
