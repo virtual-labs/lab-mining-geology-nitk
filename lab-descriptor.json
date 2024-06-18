@@ -1,7 +1,8 @@
 {
   "broadArea": {
     "name": "Civil Engineering",
-    "link": "http://vlab.co.in/broad-area-civil-engineering"
+    "link": "http://vlab.co.in/broad-area-civil-engineering",
+    "code": "CIVIL"
   },
   "lab": "Mining Geology",
   "lab_display_name": "Mining Geology",
@@ -72,8 +73,5 @@
       "Engineering Geology- National Institute of Technology Karnataka Surathkal, APJ Abdul Kalam Technological University, Goa University, Anna University",
       "Geology Lab- National Institute of Technology Karnataka Surathkal"
     ]
-  },
-  "version": "v1.14.0",
-  "exp_name": "Thickness of Strata by Graphical Method",
-  "exp_short_name": "graphical-method"
+  }
 }
